@@ -1,0 +1,17 @@
+I used the following resources!
+
+I got a double pendulum from this github and modified the number and physics of the bobs.
+https://dipamsen.github.io/double-pendulum-p5-matter/
+
+I used matter and p5 for the physics.
+https://brm.io/matter-js/
+https://p5js.org/
+
+I got my calcNote function from my professor Nick Briz
+https://netart.rocks/online-algorithmic-music/
+
+I used bootstrap for my styling
+https://getbootstrap.com/
+
+I used tone.js and the tone.js documents for the music.
+https://tonejs.github.io/
